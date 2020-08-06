@@ -1,0 +1,88 @@
+[
+    {
+        "name": "Amit",
+        "age": "80",
+        "children": [
+            {
+                "name": "Anil",
+                "age": "65",
+                "children": [
+                    {
+                        "name": "Sunil",
+                        "age": "45",
+                        "children": [
+                            {
+                                "name": "Rahul",
+                                "age": "15",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Rohit",
+                "age": "75",
+                "children": [
+                    {
+                        "name": "Pankaj",
+                        "age": "45",
+                        "children": [
+                            {
+                                "name": "Manish",
+                                "age": "25",
+                                "children": []
+                            }
+                        ]
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sohail",
+        "age": "90",
+        "children": [
+            {
+                "name": "Suman",
+                "age": "75",
+                "children": [
+                    {
+                        "name": "Karan",
+                        "age": "60",
+                        "children": [
+                            {
+                                "name": "Salman",
+                                "age": "45",
+                                "children": [
+                                    {
+                                        "name": "Avinash",
+                                        "age": "30",
+                                        "children": [
+                                            {
+                                                "name": "Deepak",
+                                                "age": "5",
+                                                "children": []
+                                            }
+                                        ]
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "Ajay",
+                "age": "50",
+                "children": [
+                    {
+                        "name": "Akshay",
+                        "age": "25",
+                        "children": []
+                    }
+                ]
+            }
+        ]
+    }
+]
